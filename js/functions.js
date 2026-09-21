@@ -11,10 +11,10 @@ function isPalindrome(str) {
   return normalizedStr === reversedStr;
 }
 
-console.log(checkStringLength('проверяемая строка', 20));
-console.log(checkStringLength('проверяемая строка', 18));
-console.log(checkStringLength('проверяемая строка', 10));
+//console.log(checkStringLength('проверяемая строка', 20));
+//console.log(checkStringLength('проверяемая строка', 18));
+//console.log(checkStringLength('проверяемая строка', 10));
 
-console.log(isPalindrome('топот'));
-console.log(isPalindrome('Довод'));
-console.log(isPalindrome('Кекс'));
+//console.log(isPalindrome('топот'));
+//console.log(isPalindrome('Довод'));
+//console.log(isPalindrome('Кекс'));
