@@ -11,6 +11,9 @@ function isPalindrome(str) {
   return normalizedStr === reversedStr;
 }
 
+checkStringLength('проверяемая строка', 10);
+isPalindrome('нога');
+
 //console.log(checkStringLength('проверяемая строка', 20));
 //console.log(checkStringLength('проверяемая строка', 18));
 //console.log(checkStringLength('проверяемая строка', 10));
